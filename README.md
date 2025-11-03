@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="#abstract">Abstract</a> |
+  <a href="#abstract">Abstract</a> 
 </p >
 
 
