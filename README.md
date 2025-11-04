@@ -1,6 +1,6 @@
 <h1 align="center"> UniChange: Unifying Change Detection with Multimodal Large Language Model </h1>
 
-<h5 align="center"><em>Xu Zhang, Danyang Li, Xiaohang Dong, Tianhao Wu, Hualong Yu, Jianye Wang, Qicheng Li, Xiang Li, and Yingjie Xia </em></h5>
+<h5 align="center"><em>Xu Zhang, Danyang Li, Xiaohang Dong, Tianhao Wu, Hualong Yu, Jianye Wang, Qicheng Li, and Xiang Li </em></h5>
 
 
 <p align="center">
